@@ -1,0 +1,7 @@
+[general]
+name=OPENGIS.ch Conferences Plugin
+description=Contains a set of functionalities to enhance conference presence.
+author=OPENGIS.ch
+icon=icon.svg
+version=0.1
+homepage=https://www.opengis.ch/
