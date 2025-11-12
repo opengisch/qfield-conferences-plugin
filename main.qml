@@ -43,7 +43,7 @@ Item {
       }
     }
 
-    property var fauxGnssPath: Qt.resolvedUrl('data/frankfurt.log');
+    property var fauxGnssPath: Qt.resolvedUrl('data/lausanne.log');
 
     function triggerResult(result) {
       let type = result.userData.type
